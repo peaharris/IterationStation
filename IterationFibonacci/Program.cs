@@ -22,7 +22,7 @@ namespace IterationFibonacci
         //line.The computation and printing must be done inside of a loop.
 
 
-        public static void Main(string[] args) //I KNOW THIS IS RIGHT BUT I DONT UNDERSTAND IT
+        public static void Main(string[] args) 
         {
             for (int i = 0; i < 21; i++)
             {

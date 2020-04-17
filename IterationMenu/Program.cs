@@ -40,14 +40,6 @@ namespace IterationMenu
             Console.WriteLine("All Done!");
         }
 
-        static void CountTo100By2s()
-        {
-            for (int i = 0; i < 101; i += 2)
-            {
-                Console.WriteLine(i);
-            }
-        }
-
         static void PrintMenu()
         {
             Console.WriteLine("Please choose one of the following: ");
@@ -57,6 +49,14 @@ namespace IterationMenu
             Console.WriteLine("4. Exit");
             Console.WriteLine("Choice: ");
 
+        }
+
+        static void CountTo100By2s()
+        {
+            for (int i = 0; i < 101; i += 2)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }

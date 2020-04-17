@@ -1,5 +1,0 @@
-/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/CSharpDocs/obj/anycpu/Debug/CSharpDocs.csproj.CoreCompileInputs.cache
-/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/CSharpDocs/bin/Debug/CSharpDocs.exe
-/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/CSharpDocs/bin/Debug/CSharpDocs.pdb
-/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/CSharpDocs/obj/anycpu/Debug/CSharpDocs.exe
-/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/CSharpDocs/obj/anycpu/Debug/CSharpDocs.pdb
