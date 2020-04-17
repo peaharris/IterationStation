@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFibonacci/bin/Debug/IterationFibonacci.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFibonacci/bin/Debug/IterationFibonacci.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFibonacci/obj/anycpu/Debug/IterationFibonacci.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFibonacci/obj/anycpu/Debug/IterationFibonacci.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFibonacci/obj/anycpu/Debug/IterationFibonacci.pdb

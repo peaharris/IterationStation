@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFizzBuzz/bin/Debug/IterationFizzBuzz.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFizzBuzz/bin/Debug/IterationFizzBuzz.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFizzBuzz/obj/anycpu/Debug/IterationFizzBuzz.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFizzBuzz/obj/anycpu/Debug/IterationFizzBuzz.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationFizzBuzz/obj/anycpu/Debug/IterationFizzBuzz.pdb

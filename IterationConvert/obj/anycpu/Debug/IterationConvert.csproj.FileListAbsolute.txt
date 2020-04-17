@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationConvert/bin/Debug/IterationConvert.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationConvert/bin/Debug/IterationConvert.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationConvert/obj/anycpu/Debug/IterationConvert.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationConvert/obj/anycpu/Debug/IterationConvert.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationConvert/obj/anycpu/Debug/IterationConvert.pdb

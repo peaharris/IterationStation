@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationHighestLowest/bin/Debug/IterationHighestLowest.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationHighestLowest/bin/Debug/IterationHighestLowest.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationHighestLowest/obj/anycpu/Debug/IterationHighestLowest.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationHighestLowest/obj/anycpu/Debug/IterationHighestLowest.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/IterationHighestLowest/obj/anycpu/Debug/IterationHighestLowest.pdb

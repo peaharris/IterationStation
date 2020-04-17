@@ -1,0 +1,6 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/Iteration/bin/Debug/Iteration.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/Iteration/bin/Debug/Iteration.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/Iteration/obj/anycpu/Debug/IterationMenu.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/Iteration/obj/anycpu/Debug/Iteration.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/Iteration/obj/anycpu/Debug/Iteration.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/Iteration/obj/anycpu/Debug/IterationMenu.csprojAssemblyReference.cache
