@@ -4,6 +4,17 @@ namespace IterationMenu
 {
     class MainClass
     {
+          //Write a C# program from scratch to do the following:
+
+          //Print out a menu of choices
+          //1. Count To 100
+          //2. Count Down From 100
+          //3. Count To 100 By 2's
+          //4. Exit
+          //Accept the user's choice and perform the chosen action.
+          //If the user did not choose 4. Exit, then after performing the action, repeat(menu, input, action).
+          //Keep repeating(menu, input, action) until the user chooses 4. Exit.
+
          public static void Main(string[] args)
          {
             int userChoice;
