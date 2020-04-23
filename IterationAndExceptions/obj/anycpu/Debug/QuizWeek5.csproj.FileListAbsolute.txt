@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/QuizWeek5/obj/anycpu/Debug/QuizWeek5.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/QuizWeek5/bin/Debug/QuizWeek5.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/QuizWeek5/bin/Debug/QuizWeek5.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/QuizWeek5/obj/anycpu/Debug/QuizWeek5.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch5/QuizWeek5/obj/anycpu/Debug/QuizWeek5.pdb
