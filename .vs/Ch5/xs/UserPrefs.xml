@@ -1,26 +1,17 @@
-﻿<Properties StartupConfiguration="{6C582DF1-ED09-4DAA-AD4A-A53BB02580AD}|Default">
+﻿<Properties StartupConfiguration="{27BD54FA-8DC3-4270-8FC5-BDDE0809A2DB}|Default">
   <MonoDevelop.Ide.ItemProperties.IterationFizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.IterationMenu PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.IterationConvert PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Iteration/Program.cs">
-    <Files>
-      <File FileName="IterationConvert/Program.cs" Line="34" Column="1" />
-      <File FileName="IterationHighestLowest/Program.cs" />
-      <File FileName="IterationFizzBuzz/Program.cs" />
-      <File FileName="IterationFibonacci/Program.cs" />
-      <File FileName="Iteration/Program.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Ch5" expanded="True">
             <Node name="IterationConvert" expanded="True" />
             <Node name="IterationFibonacci" expanded="True" />
-            <Node name="IterationFizzBuzz" expanded="True" />
-            <Node name="IterationHighestLowest" expanded="True" />
-            <Node name="IterationMenu" expanded="True">
+            <Node name="IterationFizzBuzz" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="IterationHighestLowest" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,6 +19,9 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.IterationHighestLowest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>QuizWeek5/QuizWeek5.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

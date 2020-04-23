@@ -1,8 +1,6 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationMenu", "Iteration\IterationMenu.csproj", "{6C582DF1-ED09-4DAA-AD4A-A53BB02580AD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationConvert", "IterationConvert\IterationConvert.csproj", "{27BD54FA-8DC3-4270-8FC5-BDDE0809A2DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationHighestLowest", "IterationHighestLowest\IterationHighestLowest.csproj", "{384229D0-07BC-4688-AA4C-83025FBC0E71}"
@@ -11,16 +9,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationFizzBuzz", "Iterat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationFibonacci", "IterationFibonacci\IterationFibonacci.csproj", "{648CDCAB-7B24-45A9-9362-8545D312988D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizWeek5", "QuizWeek5\QuizWeek5.csproj", "{D153D81B-1B71-4A0D-9F2D-FBEC229D31B1}"
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "IterationMenu", "Iteration\IterationMenu.csproj", "{05E87538-33BB-4E7C-B7A6-452B69EF53CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6C582DF1-ED09-4DAA-AD4A-A53BB02580AD}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{6C582DF1-ED09-4DAA-AD4A-A53BB02580AD}.Debug|anycpu.Build.0 = Debug|anycpu
-		{6C582DF1-ED09-4DAA-AD4A-A53BB02580AD}.Release|anycpu.ActiveCfg = Release|anycpu
-		{6C582DF1-ED09-4DAA-AD4A-A53BB02580AD}.Release|anycpu.Build.0 = Release|anycpu
 		{27BD54FA-8DC3-4270-8FC5-BDDE0809A2DB}.Debug|anycpu.ActiveCfg = Debug|anycpu
 		{27BD54FA-8DC3-4270-8FC5-BDDE0809A2DB}.Debug|anycpu.Build.0 = Debug|anycpu
 		{27BD54FA-8DC3-4270-8FC5-BDDE0809A2DB}.Release|anycpu.ActiveCfg = Release|anycpu
@@ -37,5 +35,13 @@ Global
 		{648CDCAB-7B24-45A9-9362-8545D312988D}.Debug|anycpu.Build.0 = Debug|anycpu
 		{648CDCAB-7B24-45A9-9362-8545D312988D}.Release|anycpu.ActiveCfg = Release|anycpu
 		{648CDCAB-7B24-45A9-9362-8545D312988D}.Release|anycpu.Build.0 = Release|anycpu
+		{D153D81B-1B71-4A0D-9F2D-FBEC229D31B1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D153D81B-1B71-4A0D-9F2D-FBEC229D31B1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D153D81B-1B71-4A0D-9F2D-FBEC229D31B1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D153D81B-1B71-4A0D-9F2D-FBEC229D31B1}.Release|anycpu.Build.0 = Release|anycpu
+		{05E87538-33BB-4E7C-B7A6-452B69EF53CD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{05E87538-33BB-4E7C-B7A6-452B69EF53CD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{05E87538-33BB-4E7C-B7A6-452B69EF53CD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{05E87538-33BB-4E7C-B7A6-452B69EF53CD}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
