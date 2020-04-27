@@ -14,33 +14,41 @@ namespace IterationHighestLowest
 
         public static void Main(string[] args)
         {
-            Random r = new Random();
-            int randomNumber = r.Next(1, 100);
+            Random r = new Random();  //this generates a random variable
+            int randomNumber = r.Next(1, 100);  //this creates an int variable called randomNumber and generates a value from 1 to 100
+                                                // Console.WriteLine(randomNumber);  //this checks the randomNumber value
 
-            Console.Write("Try and guess the number in my head: ");
-            int userGuess = int.Parse(Console.ReadLine());
 
-            //I did it first as a do while loop, then as a while loop, it is commented out,
-            //however I tried to do it in a for loop but not quite sure where to start
-
-            //for (int userGuess = int.Parse(Console.ReadLine()); userGuess != randomNumber ; )
+            // D O  W H I L E  L O O P
+            //this gurantees that you will go through the loop at least once
+            int userGuess = 0;
 
             do
             {
-                if (userGuess > randomNumber)
+                Console.Write("Try and guess the number in my head: "); //asks the user for a number
+                userGuess = int.Parse(Console.ReadLine()); //turns that user input into an int variable called userGuess
+
+
+                if (userGuess > randomNumber) //if the guess is too high
                 {
                     Console.WriteLine("You are too high! Guess again.");
-                    userGuess = int.Parse(Console.ReadLine());
                 }
-                else if (userGuess < randomNumber)
+                else if (userGuess < randomNumber) //if the guess is too low
                 {
                     Console.WriteLine("You are too low! Guess again.");
-                    userGuess = int.Parse(Console.ReadLine());
                 }
-            } while (userGuess != randomNumber);
+            } while (userGuess != randomNumber); //when the userGuess is NOT equal to randomNumber, it starts the do loop again
+            //when the userGuess does = randomNumber than it exits the do while loop
 
-            Console.Write("Congratulations! Nice guess!");
+            Console.Write("Congratulations! You Guessed it! What are the chances?!");
 
+
+
+            // W H I L E  L O O P
+            //Used when you dont know how many times you will go through the loop
+
+            //Console.Write("Try and guess the number in my head: ");
+            //int userGuess = int.Parse(Console.ReadLine());   
 
             //while (userGuess != randomNumber)
             //{
@@ -60,6 +68,31 @@ namespace IterationHighestLowest
             //    Console.Write("Congratulations! Nice guess!");
             //    break;
             //}
+
+
+
+
+            // F O R  L O O P
+            //for loops are usually used for counting, and used the most
+
+
+            //for (int userGuess = -1; userGuess != randomNumber; )  //-1 will always fail in the loop because it is not 1 to 100
+            //    //no third statement, this will still work, the iterator (incrementer) is empty
+            //{
+            //    Console.Write("Try and guess the number in my head: "); //asks the user for a number
+            //    userGuess = int.Parse(Console.ReadLine()); //turns that user input into an int variable called userGuess
+
+
+            //    if (userGuess > randomNumber) //if the guess is too high
+            //    {
+            //        Console.WriteLine("You are too high! Guess again.");
+            //    }
+            //    else if (userGuess < randomNumber) //if the guess is too low
+            //    {
+            //        Console.WriteLine("You are too low! Guess again.");
+            //    }
+
+            //}   Console.Write("Congratulations! You Guessed it! What are the chances?!");
         }
     }
 }
